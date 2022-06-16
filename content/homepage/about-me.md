@@ -4,7 +4,6 @@ weight: 2
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
 ##### Professionel Experience
 
