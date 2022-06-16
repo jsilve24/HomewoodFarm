@@ -4,11 +4,20 @@ weight: 1
 header_menu: true
 ---
 
-All of our animals are pasture raised and hormone free. We use medications very rarely and only ever to increase the quality of life of our animals if they get sick and never for growth promotion. 
 
-- Beef (sold as a quarter/half/full)
-- Duck
-- Chicken
-- Eggs (sold by the dozen)
-- Turkey
-- Honey
+All of our animals are free-ranged, pasture-raised, and hormone free. We are happy to receive beef and poultry orders in the early spring to ensure that we can accommodate your needs.
+
+# Meat
+
+* **Beef**: Our beef comes from our 100% grass-fed, pasture-raised cattle (Angus and Angus Hybrid). Beef
+  is sold by quarter, half, or full cow.
+* **Duck** 
+* **Chicken**
+* **Turkey**
+
+# Other 
+
+* **Eggs**: Our free-ranged layers produce colorful eggs (brown, blue, olive) which are sold by the half
+  dozen and dozen.
+
+* **Honey**: Our bees produce polyfloral honey available in 5oz and 16oz sizes. 

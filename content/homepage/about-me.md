@@ -4,7 +4,8 @@ weight: 2
 header_menu: true
 ---
 
-
-Homewood Farm LLC was started and is operated by Justin and Rachel Silverman in the Fall of 2020.  Justin manages the cattle, Rachel keeps the bees, and they both raise the ducks, chickens, and turkeys. 
+Homewood Farm LLC is a family farm owned and operated by Justin and Rachel Silverman along with
+their two kids and two dogs. Justin manages the cattle, Rachel keeps the bees, and together they
+raise the ducks, chickens, and turkeys.
 
 
