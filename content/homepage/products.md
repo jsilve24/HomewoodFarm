@@ -9,8 +9,7 @@ All of our animals are free-ranged, pasture-raised, and hormone free. We are hap
 
 # Meat
 
-* **Beef**: Our beef comes from our 100% grass-fed, pasture-raised cattle (Angus and Angus Hybrid). Beef
-  is sold by quarter, half, or full cow.
+* **Beef**: Our beef comes from our 100% grass-fed, pasture-raised Black Angus.   Beef is sold by quarter, half, or full cow.
 * **Duck** 
 * **Chicken**
 * **Turkey**
