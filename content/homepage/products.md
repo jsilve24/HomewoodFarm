@@ -5,11 +5,11 @@ header_menu: true
 ---
 
 
-All of our animals are free-ranged, pasture-raised, and hormone free. We are happy to receive beef and poultry orders in the early spring to ensure that we can accommodate your needs.
+All of our animals are free-ranged, pasture-raised, and hormone free. 
 
 #### Meat
 
-* **Beef**: Our beef comes from our 100% grass-fed, pasture-raised Black Angus.   Beef is sold by quarter, half, or full cow.
+* **Beef**: Our beef comes from our 100% grass-fed, pasture-raised Black Angus. Beef is sold by quarter, half, or full cow.
 
 #### Other 
 
